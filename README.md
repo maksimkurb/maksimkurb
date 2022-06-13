@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![](https://hit.yhype.me/github/profile?user_id=1351924)
+
+
+- 🔭 I’m currently working in [OneCell.ai](https://onecell.ai/en) - digital pathology platform with AI, scanning hardware and smart storage
+- 📫 How to reach me: [Telegram @maksimkurb](https://t.me/maksimkurb) | [LinkedIn](https://www.linkedin.com/in/maxim-kurbatov/) | [E-mail max@cubly.ru](mailto:max@cubly.ru)
+
 <!--
 **maksimkurb/maksimkurb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
