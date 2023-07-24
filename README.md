@@ -4,7 +4,7 @@ I have 3 years of experience in commercial development on the Spring stack with 
 
 
 - 🔭 I’m currently working in [OneCell.ai](https://onecell.ai/en) - digital pathology platform with AI, scanning hardware and smart storage
-- 📫 How to reach me: [Telegram @maksimkurb](https://t.me/maksimkurb) | [LinkedIn](https://www.linkedin.com/in/maxim-kurbatov/) | [E-mail max@cubly.ru](mailto:max@cubly.ru)
+- 📫 How to reach me: [Telegram @maksimkurb](https://t.me/maksimkurb) | [LinkedIn](https://www.linkedin.com/in/maxim-kurbatov/) | [E-mail maxim@kurb.me](mailto:maxim@kurb.me)
 
 ![](https://hit.yhype.me/github/profile?user_id=1351924)
 <!--
