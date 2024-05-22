@@ -1,9 +1,10 @@
 ### Hi there, I am Maxim
 
-I have 3 years of experience in commercial development on the Spring stack with microservice architecture. Mostly working with relational databases (MySQL, Postgres), but have some experience with NoSQL databases (Hazelcast, Redis, MongoDB). Previously worked with Node JS for about 2 years.
+I have 4 years of experience in commercial development on the Spring stack with microservice architecture. Mostly working with relational databases (MySQL, Postgres), but have some experience with NoSQL databases (Hazelcast, Redis, MongoDB). Previously worked with Node JS for about 2 years.
 
 
 - 🔭 I’m currently working in [OneCell.ai](https://onecell.ai/en) - digital pathology platform with AI, scanning hardware and smart storage
+- 📄 My CV is available on my website: https://kurb.me/cv.pdf
 - 📫 How to reach me: [Telegram @maksimkurb](https://t.me/maksimkurb) | [LinkedIn](https://www.linkedin.com/in/maxim-kurbatov/) | [E-mail maxim@kurb.me](mailto:maxim@kurb.me)
 
 ![](https://hit.yhype.me/github/profile?user_id=1351924)
