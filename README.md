@@ -1,6 +1,6 @@
 ### Hi there, I am Maxim
 
-I have 4 years of experience in commercial development on the Spring stack with microservice architecture. Mostly working with relational databases (MySQL, Postgres), but have some experience with NoSQL databases (Hazelcast, Redis, MongoDB). Previously worked with Node JS for about 2 years.
+I have 5+ years of experience in commercial development on the Spring stack with microservice architecture. Mostly working with relational databases (MySQL, Postgres), but have some experience with NoSQL databases (Hazelcast, Redis, MongoDB). Previously worked with Node JS for about 2 years.
 
 
 - 🔭 I’m currently working in [OneCell.ai](https://onecell.ai/en) - digital pathology platform with AI, scanning hardware and smart storage
